@@ -5,7 +5,7 @@
  * Recupera mediante un oráculo el precio en dólares del ether. Utiliza la api de 
  * Oraclize
  * 
- * Probado en Remix vía Chrome + Metamask usando la red Rinkebi
+ * Probado en Remix vía Chrome + Metamask usando la red de test Rinkeby
  * 
 **/
 
